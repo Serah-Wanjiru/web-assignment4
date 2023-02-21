@@ -1,0 +1,133 @@
+.serah{
+    width: 22%;
+    float: left;
+}
+.red{
+    width: 100px;
+    height: 100px;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+}
+.green{
+    width: 150px;
+    height: 150px;
+}
+.white{
+ border-radius: 25px;
+ border: 2px solid red;
+ padding: 20px;
+ width: 120px;
+ height: 120px;
+ margin: 1em;
+ background-color:chartreuse ;
+ 
+ 
+
+}
+.black{
+border-radius: 25px;
+ border: 2px solid red;
+ padding: 20px;
+ width: 120px;
+ height: 120px;
+ margin: 1em;
+ background-color: blueviolet;
+ 
+
+}
+.violet{
+    border-radius: 25px;
+ border: 2px solid red;
+ padding: 20px;
+ width: 120px;
+ height: 120px;
+ margin: 1em;
+ background-color: yellow;
+ 
+    
+}
+.Mburu{
+    display: flex;
+    margin-left: 10%;
+}
+.wanjiru{
+    display: flex;
+}
+.slow{
+    border-radius: 25px;
+    padding: 20px;
+    margin: 1em;
+
+    
+    
+}
+
+
+.A{
+    border-radius: 25px;
+   padding: 20px;
+    margin: 1em;
+   
+
+}
+.B{
+    border-radius: 25px;
+    padding: 20px;
+    margin: 1em;
+   
+
+}
+.C{
+    display: flex;
+    margin-left: 50%;
+    margin-top: -20%;
+}
+
+.navigate{
+    float: right;
+}
+.navigate ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 5px 0px;
+}
+.R{
+    padding-top: 50px;
+    text-align: center;
+}
+.R b{
+    color: chartreuse;
+}
+.H{
+    text-align: center;
+}
+.H b{
+
+    color: blue;
+}
+.V{
+    text-align: center;
+}
+.Q{
+    width: 100%;
+}
+.K{
+    background-color: chartreuse;
+    padding: 20px;
+}
+.F{
+    background-color: chartreuse;
+    padding: 20px;
+}
+.Z{
+    background-color: blueviolet;
+}
+
+
